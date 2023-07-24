@@ -42,7 +42,7 @@ number.reverse()
 print(number)"""
 
 
-number= [56,89,98,4,8,1]
+number= [56,89,98,4,1]
 number.sort()
 print(number)
 
